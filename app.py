@@ -11,7 +11,7 @@ import googletrans
 import secrets
 
 
-API_KEY = 'AIzaSyDqDhf-M7C97tdCSE4yEQE0fbQyqfDjJBQ'
+API_KEY = 'YOUR_GOOGLE_API_KEY'
 
 genai.configure(api_key=API_KEY)
 generation_config = {
