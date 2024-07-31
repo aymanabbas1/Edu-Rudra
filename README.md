@@ -55,7 +55,7 @@ Edu-Rudra is a Flask-based web application that allows users to upload video fil
 7. Use the live text-to-speech functionality.
 
 ## File Structure
-Sure! Below is the file structure in markdown format.
+
 
 ```
 Edu-Rudra/
