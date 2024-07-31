@@ -1,6 +1,6 @@
 # Edu-Rudra
 
-Edu-Rudra is a Flask-based web application that allows users to upload video files, extract audio from the videos, transcribe the audio, translate and summarize the transcriptions, and perform text-to-speech operations and live summary...
+Edu-Rudra is a Flask-based web application that allows users to upload video files, extract audio from the videos, transcribe the audio, translate and summarize the transcriptions,and perform keyword based timestamp searches
 
 ## Features
 
@@ -9,7 +9,6 @@ Edu-Rudra is a Flask-based web application that allows users to upload video fil
 - Translate transcriptions to different languages
 - Summarize transcriptions using Google Gemini AI
 - Search for specific words within transcriptions and get timestamps
-- Live text-to-speech functionality
 
 ## Prerequisites
 
