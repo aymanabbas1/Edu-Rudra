@@ -51,7 +51,7 @@ Edu-Rudra is a Flask-based web application that allows users to upload video fil
 4. Translate the transcription to your desired language.
 5. Summarize the transcription.
 6. Search for specific words within the transcription.
-7. Use the live text-to-speech functionality.
+
 
 ## File Structure
 
