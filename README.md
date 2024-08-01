@@ -62,7 +62,7 @@ Edu-Rudra/
 │   ├── index.html
 │   ├── upload.html
 │   ├── transcription.html
-│   ├── speech_2_text.html
+│  
 ├── uploads/
 │   ├── (uploaded files)
 ├── app.py
@@ -78,7 +78,7 @@ Edu-Rudra/
 - `/translate`: Translate transcription.
 - `/summarize`: Summarize transcription.
 - `/search`: Search within transcription.
-- `/live_text_to_speech`: Live text-to-speech page.
+
 
 ## API Endpoints
 
